@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Employee Attrition Prediction", layout="wide")
 
 DATA_PATH = os.path.join("..", "data", "employee_data.csv")
-MODEL_PATH = os.path.join("data", "attrition_best_model.pkl")
+MODEL_PATH = "../data/attrition_best_model.pkl"
 
 # Load model
 model = joblib.load(MODEL_PATH)
