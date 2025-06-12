@@ -36,7 +36,7 @@ python -m venv env
 pip install -r requirements.txt
 ```
 
-## ## Business Dashboard
+## Business Dashboard
 
 Dashboard **Employee Attrition Prediction** ini dikembangkan untuk membantu tim Human Resource (HR) dalam:
 - Mengidentifikasi karyawan yang berisiko tinggi untuk keluar (attrition),
