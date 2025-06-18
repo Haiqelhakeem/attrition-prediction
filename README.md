@@ -1,4 +1,4 @@
-# Attrition Prediction at Edutech Company
+# Attrition Prediction at Jaya Jaya Maju Company
 ## Business Understanding
 
 Jaya Jaya Maju adalah perusahaan multinasional yang berdiri sejak tahun 2000 dengan lebih dari 1.000 karyawan yang tersebar di seluruh Indonesia. Meskipun telah mengalami pertumbuhan pesat, perusahaan ini masih menghadapi tantangan dalam pengelolaan sumber daya manusia, terutama terkait tingkat retensi karyawan.
